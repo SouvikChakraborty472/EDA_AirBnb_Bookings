@@ -46,7 +46,7 @@ Based on the analysis, several key insights were identified, leading to actionab
 - **Enhanced User Experience**
 - **Investment and propoert Development**
 - **Customer Service Enchancements**
-- **Pricing Strategies **
+- **Pricing Strategies**
 - **Loyalty Programs**
 
 ## Skills Demonstrated
